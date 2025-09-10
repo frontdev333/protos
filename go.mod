@@ -1,4 +1,4 @@
-module protos
+module github.com/frontdev333/protos
 
 go 1.24
 
